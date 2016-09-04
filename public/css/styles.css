@@ -1,0 +1,42 @@
+.container {
+	width:90%;
+	margin:auto;
+	max-width:1200px;
+}
+.hidden {
+	display:none;
+}
+.left {
+	float:left;
+	clear:left;
+	width:55%;
+}
+.right {
+	float:right;
+	width:40%;
+}
+ul,li {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+div {
+	margin:5px;
+}
+
+td, th {
+	padding: 2px;
+}
+
+li {
+	margin-bottom:15px;
+}
+
+form {
+	margin: 20px 0;
+}
+
+#newContact {
+	cursor: pointer;
+	color: dodgerblue;
+}

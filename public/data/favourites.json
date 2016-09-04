@@ -1,0 +1,30 @@
+[
+    {
+        "forename": "Alphose",
+        "surname": "LeDuc",
+        "email": "alphonse.leduc@anemailaddress.com",
+        "address": "42 Wallaby Way\nSydney\nAustralia",
+        "telephone": "0123 4567 8911"
+    },
+    {
+        "forename": "Hermanigildo",
+        "surname": "Fernandez",
+        "email": "fernandez.h@anemailaddress.com",
+        "address": "26 Grovesnor Gardens\nLondon",
+        "telephone": "0123 4567 8911"
+    },
+    {
+        "forename": "Robert",
+        "surname": "Welch",
+        "email": "rw@groogler.com",
+        "address": "28 Smith Street\nEdingurgh\nUK",
+        "telephone": "05746 37485938"
+    },
+    {
+        "forename": "Sarah",
+        "surname": "Montague",
+        "email": "smont@anemailaddress.com",
+        "address": "13 Street Lane\nSurbiton\nUK",
+        "telephone": "0958 4938 5941"
+    }
+]
